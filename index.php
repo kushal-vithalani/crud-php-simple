@@ -10,7 +10,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 <head>	
 	<title>Homepage</title>
 </head>
-	<h1>kushalvithani</h1>
+	<h1>helios solution</h1>
 
 <body>
 	<h2>Homepage</h2>
