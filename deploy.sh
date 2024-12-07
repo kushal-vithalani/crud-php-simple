@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "Starting deployment..."
-sudo cp -r * /var/www/html/
+sudo su
+cp -r * /var/www/html/
 echo "Deployment successful!"
