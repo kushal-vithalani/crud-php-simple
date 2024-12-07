@@ -10,12 +10,14 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 <head>	
 	<title>Homepage</title>
 </head>
+	<h1>kushal</h1>
 
 <body>
 	<h2>Homepage</h2>
 	<p>
 		<a href="add.php">Add New Data</a>
 	</p>
+	
 	<table width='80%' border=0>
 		<tr bgcolor='#DDDDDD'>
 			<td><strong>Name</strong></td>
